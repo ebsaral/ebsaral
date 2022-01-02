@@ -10,7 +10,7 @@
 - Really experienced with [Python][python] and some of its frameworks such as [Django][django] and [Flask][flask]. 
 - Has some experience with [Swift][swift] and [Ruby][ruby], as you can see in my repositories.
 - Getting much better at working with [JavaScript][javascript] and [React][react] nowadays. 
-- The main stack I work with at the moment: [Next.js][nextjs], [Netlify][netlify], [AWS][aws], [Integromat][integromat], [Serverless][serverless], [Python][python], [Node.js][node], [GitLab][gitlab].
+- The main stack I work with at the moment: [Next.js][nextjs], [Netlify][netlify], [AWS][aws], [Integromat][integromat], [Serverless][serverless], [Python][python], [Node.js][node], [GitLab][gitlab]...
 
 ----
 
