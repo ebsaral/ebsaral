@@ -20,7 +20,10 @@ You can book a call with me on [Superpeer][superpeer].
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Create a Serverless app  in a few seconds](https://dev.to/ebsaral/create-a-serverless-app-in-a-few-seconds-59h2)
+- [Multi-Region Serverless deployments on AWS with custom domains](https://dev.to/ebsaral/multi-region-serverless-deployments-on-aws-with-custom-domains-273i)
+- [How did we tackle Airtable&#39;s API limits at FINN?](https://dev.to/ebsaral/how-did-we-tackle-airtables-api-limits-at-finn-5h71)
+- [Running a startup with No Code - until when?](https://dev.to/ebsaral/running-a-startup-with-no-code-until-when-4llj)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [see all blog posts...](https://saral.dev)
