@@ -8,7 +8,8 @@
 - Has a BSc in Computer Enginering from [Koç University][koc_uni], Istanbul.
 - Currently, working as a Senior Software Engineer II at [FINN][finn].
 - Really experienced with [Python][python] and some of its frameworks such as [Django][django] and [Flask][flask]. 
-- Getting better at writing [JavaScript][javascript] and [React][react] nowadays. 
+- Has some experience with [Swift][swift] and [Ruby][ruby], as you can see in my repositories.
+- Getting much better at working with [JavaScript][javascript] and [React][react] nowadays. 
 - The main stack I work with at the moment: [Next.js][nextjs], [Netlify][netlify], [AWS][aws], [Integromat][integromat], [Serverless][serverless], [Python][python], [Node.js][node], [GitLab][gitlab].
 
 ----
@@ -49,3 +50,5 @@ You can book a call with me on [Superpeer][superpeer].
 [node]: https://nodejs.org/en/
 [gitlab]: https://gitlab.com
 [superpeer]: https://superpeer.com/ebsaral
+[ruby]: https://www.ruby-lang.org/
+[swift]: https://developer.apple.com/swift/
