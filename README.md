@@ -7,7 +7,7 @@
 - Born in Trabzon, Turkey.
 - Has a BSc in Computer Enginering from [Koç University][koc_uni], Istanbul.
 - Currently, working as a Senior Software Engineer II at [FINN][finn].
-- Really experienced with [Python][python] and some of its frameworks such as [Django][django] and [Flask][flask]. 
+- Mostly experienced with [Python][python] and some of its frameworks such as [Django][django] (6 years of work) and [Flask][flask] (rather new). 
 - Has some experience with [Swift][swift] and [Ruby][ruby], as you can see in my repositories.
 - Getting much better at working with [JavaScript][javascript] and [React][react] nowadays. 
 - The main stack I work with at the moment: [Next.js][nextjs], [Netlify][netlify], [AWS][aws], [Integromat][integromat], [Serverless][serverless], [Python][python], [Node.js][node], [GitLab][gitlab]...
