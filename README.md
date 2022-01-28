@@ -14,7 +14,7 @@
 
 ----
 
-You can book a call with me on [Superpeer][superpeer].
+You can book a call with me on [Superpeer][superpeer]. The money will be used for donations. 
 
 ----
 
