@@ -1,6 +1,6 @@
 ### Mr. Saral is here! - [saral.dev][website] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/eminbugrasaral_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Febsaral&screen_name=eminbugrasaral_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eminbugrasaral?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Febsaral&screen_name=eminbugrasaral)
 
 ## Who am I?
 
