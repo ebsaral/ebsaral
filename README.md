@@ -5,5 +5,5 @@
 ## Who am I?
 
 - Born in Trabzon, Turkey.
-- Has a BSc in Computer Enginering from [Koç University][koc_uni], Istanbul.
+- Has a BSc in Computer Enginering from Koç University, Istanbul.
 - Currently, not working for anyone.
