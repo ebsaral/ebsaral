@@ -4,7 +4,7 @@
 - Has a BSc in Computer Enginering from Koç University, Istanbul.
 - Currently, not working for anyone.
 
-Personal Blog: [Saral.blog](https://saral.blog)
+Blog: [Saral.blog](https://saral.blog)
 
 About page in Turkish: [Saral.blog/about](https://saral.blog/about)
 
