@@ -1,4 +1,4 @@
-### Emin Bugra Saral Saral is here! 👋 
+### Emin Bugra Saral is here! 👋 
 
 Summary:
 - Born in Trabzon, Turkey.
