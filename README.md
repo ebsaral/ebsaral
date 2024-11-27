@@ -6,4 +6,4 @@ Summary:
 - Currently, not working for anyone. Trying to switch from software engineering to any kind of art, consultancy or managerial positions. Support or help is appreciated.
 - Long-term project: [Peace!](https://cb.saral.me) [in development].
 
-CV and personal documents (Turkish & English): [@ebsaral/CV](https://www.github.com/ebsaral/CV)
+CV and personal documents (Turkish, English, German): [@ebsaral/CV](https://www.github.com/ebsaral/CV)
