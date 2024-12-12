@@ -7,4 +7,6 @@ Summary:
 - More Info: [Personal Website](https://saral.me)
 - Long-term project: [Peace!](https://cb.saral.me) [in development].
 
-CV and personal documents (Turkish, English): [@ebsaral/CV](https://www.github.com/ebsaral/CV)
+Personal documents (Turkish, English): [https://github.com/ebsaral/ebsaral...](https://github.com/ebsaral/ebsaral/tree/main/personal%20docs)
+
+CV (resume): [https://saral.me/files](https://saral.me/files)
