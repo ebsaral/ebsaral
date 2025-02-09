@@ -1,7 +1,3 @@
-Türkçe Özgeçmiş: https://saral.me/files/cv/turkish.pdf
-
-Resume in English: https://saral.me/files/cv/english.pdf
-
 # E-Devlet Belgeleri (E-Government Documents in Turkish)
 - Adli Sicil Kaydı (Criminal record certificate).
 - Not Döküm Belgesi (Transcript).
