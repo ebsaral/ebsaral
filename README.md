@@ -1,4 +1,4 @@
-### Emin Bugra Saral is here! 👋 
+### Hey, this is Emin 5.0! 👋 
 
 Summary:
 - Global mindset and interests.
