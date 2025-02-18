@@ -12,7 +12,11 @@ Cross-functional teamwork, stakeholder collaboration, market research, user rese
 Empath, creative, (mostly) direct, honest, outgoing, fun & humorous, kind, helpful, solution oriented, educative, innovative, witty, curious, visionary, debater, fast learner, adventurous, spontaneous, authentic, cosmopolitan...
 
 ## Active Interests & Talents
-Social sciences, engineering, logical spirituality, creative writing (poem, article, story), music (almost all genres), freestyle dancing, acting, creative cooking, team sports, driving, biking, painting, movies, criticism, activism, picky reading, detailed impersonation, nature synchronization, attention to details...
+Social sciences, engineering, logical spirituality, creative writing _(poem, article, story)_, music _(almost all genres)_, freestyle dancing, acting, creative cooking, team sports, driving, biking, painting, movies, criticism, activism, picky reading, detailed impersonation, nature synchronization, attention to details, continuous growth...
+
+## Values
+* Seeking truth.
+* Equality & Freedom.
 
 ## Formal Education
 [BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul.
@@ -20,4 +24,4 @@ Social sciences, engineering, logical spirituality, creative writing (poem, arti
 > [!TIP]
 > You can find more in [my resume](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/english2.pdf).
 
-[^1]: Looking forward to be a [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r) member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
+[^1]: Looking forward to be a team member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
