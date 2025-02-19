@@ -22,6 +22,6 @@ Social sciences, engineering, logical spirituality, creative writing _(poem, art
 [BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul.
 
 > [!TIP]
-> You can find more in [my resume](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/english2.pdf).
+> You can find more in [my resume](https://saral.me/files/cv/english.pdf).
 
 [^1]: Looking forward to be a team member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
