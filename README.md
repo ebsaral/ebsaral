@@ -2,7 +2,7 @@
 
 A _funnywise_ human with engineering, thinking and artistic skills.
 
-## Work Titles
+## Preferred Work Titles
 Spirit Guide, Team Leader, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer. [^1]
 
 ## Management Experience
