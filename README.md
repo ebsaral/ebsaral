@@ -3,7 +3,7 @@
 A _funnywise_ human with engineering, thinking and artistic skills.
 
 ## Preferred Work Titles
-Spirit Guide, Team Leader, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer. [^1]
+Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer. [^1]
 
 ## Management Experience
 Cross-functional teamwork, stakeholder collaboration, market research, user research, feature prioritization, roadmap planning, agile methodologies, product launches, data analysis, continuous feedback cycle, team guidance, personal development, performance tracking.
