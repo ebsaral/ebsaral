@@ -44,5 +44,6 @@ Social sciences, engineering, logical spirituality, creative writing (poem, arti
 
 > [!TIP]
 > You can find my resume here: [https://saral.me/files/cv/english.pdf](https://saral.me/files/cv/english.pdf)
+> Türkçe öz geçmişe bakmak isterseniz: [https://saral.me/files/cv/turkish.pdf](https://saral.me/files/cv/turkish.pdf)
 
 [^1]: Looking forward to be a team member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
