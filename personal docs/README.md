@@ -1,9 +1,5 @@
 # E-Devlet Belgeleri (E-Government Documents in Turkish)
-- Adli Sicil Kaydı (Criminal record certificate).
 - Not Döküm Belgesi (Transcript).
-- Ehliyet Bilgileri (Driving License).
-- Askerlik Durum Belgesi (Military Service Completion Certificate). 
-- Siyasi Parti Üyeliği (Political Party Membership Record).
 
 ## E-Devlet Belgesi Doğrulama (Verifying E-Government Documents)
 Belgelerin doğruluğu https://www.turkiye.gov.tr/belge-dogrulama adresinde veya mobil cihazınıza yükleyebileceğiniz e-Devlet Kapısı'na ait Barkodlu Belge Doğrulama uygulaması vasıtası ile dökümandaki karekod okutularak kontrol edilebilir.
