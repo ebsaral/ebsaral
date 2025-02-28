@@ -48,5 +48,5 @@ Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering 
 > Türkçe öz geçmişe bakmak isterseniz: [https://saral.me/files/cv/turkish.pdf](https://saral.me/files/cv/turkish.pdf)
 
 [^1]: Looking forward to be a team member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
-[^2]: Life experiences contributed to my personal and professional development much bettter. That's why formal education is listed below.
+[^2]: Life experience > formal education.
 [^3]: If you came here because of my job application after a few clicks, you should know that I've done more by reading the details of your company. So, thank you!
