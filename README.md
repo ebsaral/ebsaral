@@ -39,21 +39,11 @@ Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering 
 
 ------
 
-## Favorite Personality Traits
-Empath, creative, kind, helpful, (mostly) direct, curious, visionary, logical, emotional, debater, solution oriented, educative, innovative, fast learner, honest, outgoing, fun & humorous, witty, adventurous, spontaneous, authentic, extrovert, cosmopolitan...
-
-## Active Interests & Talents
-Social sciences, engineering, logical spirituality, creative writing (poem, article, story), criticism, music (almost all genres), freestyle dancing, clubbing, acting, creative cooking, team sports, driving, biking, painting, movies, picky reading, detailed impersonation, nature synchronization, attention to details, continuous growth...
-
-## Values
-* Seeking Truth.
-* Equality & Freedom.
-
 ## Formal Education
 [BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul. [^2]
 
 > [!TIP]
-> You can find my resume here: [https://saral.me/files/cv/english.pdf](https://saral.me/files/cv/english.pdf) [^3]
+> You can find more details in my resume: [https://saral.me/files/cv/english.pdf](https://saral.me/files/cv/english.pdf) [^3]
 > 
 > Türkçe öz geçmişe bakmak isterseniz: [https://saral.me/files/cv/turkish.pdf](https://saral.me/files/cv/turkish.pdf)
 
