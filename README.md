@@ -48,7 +48,7 @@ Social sciences, engineering, logical spirituality, creative writing (poem, arti
 * Equality & Freedom.
 
 ## Formal Education
-[BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul.
+[BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul. [^2]
 
 > [!TIP]
 > You can find my resume here: [https://saral.me/files/cv/english.pdf](https://saral.me/files/cv/english.pdf)
@@ -56,3 +56,4 @@ Social sciences, engineering, logical spirituality, creative writing (poem, arti
 > Türkçe öz geçmişe bakmak isterseniz: [https://saral.me/files/cv/turkish.pdf](https://saral.me/files/cv/turkish.pdf)
 
 [^1]: Looking forward to be a team member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
+[^2]: Real life experiences contributed to my personal and professional development much better. That's why formal education is listed below.
