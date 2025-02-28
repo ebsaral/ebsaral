@@ -53,9 +53,10 @@ Social sciences, engineering, logical spirituality, creative writing (poem, arti
 [BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul. [^2]
 
 > [!TIP]
-> You can find my resume here: [https://saral.me/files/cv/english.pdf](https://saral.me/files/cv/english.pdf)
+> You can find my resume here: [https://saral.me/files/cv/english.pdf](https://saral.me/files/cv/english.pdf) [^3]
 > 
 > Türkçe öz geçmişe bakmak isterseniz: [https://saral.me/files/cv/turkish.pdf](https://saral.me/files/cv/turkish.pdf)
 
 [^1]: Looking forward to be a team member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
 [^2]: Life experiences contributed to my personal and professional development much bettter. That's why formal education is listed below.
+[^3]: If you came here because of my job application after a few clicks, you should know that I've done more by reading the details of your company. So, thank you!
