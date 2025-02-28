@@ -5,6 +5,12 @@ A _funnywise_ human with engineering, thinking and artistic skills.
 ## Work Titles
 Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer. [^1]
 
+------
+
+> [!TIP]
+> Every item listed under management and tech experiences has examples to be discussed if needed.
+> 
+
 ## Management Experience
 **People:** Team leadership, team guidance, communication skills, recruitment & hiring, personal development, performance tracking, conflict resolution, cross-functional teamwork, stakeholder engagement, continuous feedback, event organization.
 
@@ -28,6 +34,8 @@ Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering 
 **Performance & Analytics:** Monitoring tools, incident management, data analysis.
 
 **Cross-Disciplinary Knowledge:** Integration skills (e.g. product, design, marketing, etc.), cross-platform development.
+
+------
 
 ## Favorite Personality Traits
 Empath, creative, kind, helpful, (mostly) direct, curious, visionary, logical, emotional, debater, solution oriented, educative, innovative, fast learner, honest, outgoing, fun & humorous, witty, adventurous, spontaneous, authentic, extrovert, cosmopolitan...
