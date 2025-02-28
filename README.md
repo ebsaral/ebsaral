@@ -1,6 +1,8 @@
 # Hey, this is Emin 5.0! 👋 
 
-A _funnywise_ human with engineering, thinking and artistic skills.
+A _funnywise_ human with engineering, thinking and artistic skills. 
+
+Human-centric approach to product and tech development for long term solutions.
 
 ## Work Titles
 Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer. [^1]
