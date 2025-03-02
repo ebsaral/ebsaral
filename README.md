@@ -1,11 +1,9 @@
 # Hey, this is Emin 5.0! 👋 
 
-A _funnywise_ human with engineering, thinking and artistic skills. 
-
-Human-centric approach to product and tech development for long term solutions.
+A _funnywise_ human with engineering, thinking and artistic skills: Human-centric approach to product and tech development for long term solutions.
 
 ## Work Titles
-Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer. [^1]
+Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer, Spirit Guide.
 
 ------
 
@@ -39,13 +37,20 @@ Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering 
 
 ------
 
+## Favorite Personality Traits
+Empath, creative, (mostly) direct, honest, outgoing, fun & humorous, kind, helpful, solution oriented, educative, innovative, witty, curious, visionary, debater, fast learner, adventurous, spontaneous, authentic, cosmopolitan...
+
+## Active Interests & Talents
+Social sciences, engineering, logical spirituality, creative writing (poem, article, story), music (almost all genres), freestyle dancing, acting, creative cooking, team sports, driving, biking, painting, movies, art criticism, activism, picky reading, detailed impersonation, nature synchronization, attention to details, continuous growth...
+
 ## Formal Education
-[BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul. [^2]
+[BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul. [^1]
+
+------
 
 > [!TIP]
-> You can find more details in my resume: [https://github.com/ebsaral/ebsaral/blob/main/resume/english.pdf](https://github.com/ebsaral/ebsaral/blob/main/resume/english.pdf) [^3]
-> 
+> Recent work experiences are listed in my [resume](https://github.com/ebsaral/ebsaral/blob/main/resume/english.pdf). [^2]
+>
 
-[^1]: Looking forward to be a team member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
-[^2]: Life experience > formal education.
-[^3]: If you came here because of my job application after a few clicks, you should know that I've done more by reading the details of your company. So, thank you!
+[^1]: Life experience > formal education.
+[^2]: If you came down here because of my job application after a few clicks, you should know that I've done more by reading the details of your company. So, thank you! 🙏
