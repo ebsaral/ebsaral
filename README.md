@@ -1,9 +1,17 @@
 # Hey, this is Emin 5.0! 👋 
 
-A _funnywise_ human with engineering, thinking and artistic skills.
+A _funnywise_ human with engineering, thinking and artistic skills. 
+
+Human-centric approach to product and tech development for long term solutions.
 
 ## Work Titles
 Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer. [^1]
+
+------
+
+> [!TIP]
+> Every item listed under management and tech experiences has examples to be discussed if needed.
+> 
 
 ## Management Experience
 **People:** Team leadership, team guidance, communication skills, recruitment & hiring, personal development, performance tracking, conflict resolution, cross-functional teamwork, stakeholder engagement, continuous feedback, event organization.
@@ -29,22 +37,16 @@ Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering 
 
 **Cross-Disciplinary Knowledge:** Integration skills (e.g. product, design, marketing, etc.), cross-platform development.
 
-## Favorite Personality Traits
-Empath, creative, kind, helpful, (mostly) direct, curious, visionary, logical, emotional, debater, solution oriented, educative, innovative, fast learner, honest, outgoing, fun & humorous, witty, adventurous, spontaneous, authentic, extrovert, cosmopolitan...
-
-## Active Interests & Talents
-Social sciences, engineering, logical spirituality, creative writing (poem, article, story), criticism, music (almost all genres), freestyle dancing, clubbing, acting, creative cooking, team sports, driving, biking, painting, movies, picky reading, detailed impersonation, nature synchronization, attention to details, continuous growth...
-
-## Values
-* Seeking Truth.
-* Equality & Freedom.
+------
 
 ## Formal Education
-[BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul.
+[BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul. [^2]
 
 > [!TIP]
-> You can find my resume here: [https://saral.me/files/cv/english.pdf](https://saral.me/files/cv/english.pdf)
+> You can find more details in my resume: [https://saral.me/files/cv/english.pdf](https://saral.me/files/cv/english.pdf) [^3]
 > 
 > Türkçe öz geçmişe bakmak isterseniz: [https://saral.me/files/cv/turkish.pdf](https://saral.me/files/cv/turkish.pdf)
 
 [^1]: Looking forward to be a team member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
+[^2]: Life experience > formal education.
+[^3]: If you came here because of my job application after a few clicks, you should know that I've done more by reading the details of your company. So, thank you!
