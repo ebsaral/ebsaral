@@ -43,9 +43,8 @@ Spirit Guide, Team Lead, Project / Product Manager, People Manager, Engineering 
 [BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul. [^2]
 
 > [!TIP]
-> You can find more details in my resume: [https://saral.me/files/cv/english.pdf](https://saral.me/files/cv/english.pdf) [^3]
+> You can find more details in my resume: [https://github.com/ebsaral/ebsaral/blob/main/resume/english.pdf](https://github.com/ebsaral/ebsaral/blob/main/resume/english.pdf) [^3]
 > 
-> Türkçe öz geçmişe bakmak isterseniz: [https://saral.me/files/cv/turkish.pdf](https://saral.me/files/cv/turkish.pdf)
 
 [^1]: Looking forward to be a team member in a good [team](https://youtu.be/XRPUoz1TYro?si=P1mGTNW-EP2_oc7r). 🥰
 [^2]: Life experience > formal education.
