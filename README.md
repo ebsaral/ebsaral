@@ -10,6 +10,15 @@ Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solut
 >
 ------
 
+## (Some) Open Source Contributions
+
+- *2022* JavaScript: [npm/cli](https://github.com/npm/cli/pull/4191): show warning when last version is being removed
+- *2019* Python    : [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils/pull/285): disable model save signals
+- *2015* Python    : [mozilla/unicode-slugify](https://github.com/mozilla/unicode-slugify/pull/14): only_ascii boolean with the support of unidecode
+- *2015* Ruby      : [neektza/rmeetup](https://github.com/neektza/rmeetup/pull/4): delete and some post
+
+------
+
 ## Favorite Personality Traits
 Empath, creative, (mostly) direct, honest, outgoing, fun & humorous, kind, helpful, solution oriented, educative, innovative, witty, curious, visionary, debater, fast learner, adventurous, spontaneous, authentic, cosmopolitan...
 
