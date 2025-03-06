@@ -15,6 +15,7 @@ Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solut
 - *2019* Python    : [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils/pull/285): disable model save signals
 - *2015* Python    : [mozilla/unicode-slugify](https://github.com/mozilla/unicode-slugify/pull/14): only_ascii boolean with the support of unidecode
 - *2015* Ruby      : [neektza/rmeetup](https://github.com/neektza/rmeetup/pull/4): delete and some post
+- *2015* Swift     : [sahin/mobileplayer-ios](https://github.com/sahin/mobileplayer-ios/commit/a2ae4d9fac3f760d48a2678088207f9c1cee832e#diff-c975be73493ff0271e294be26ad1821a2595a7390c2093730f86dadf11c2c637): project initiation
 
 ------
 
