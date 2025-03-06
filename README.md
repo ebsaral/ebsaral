@@ -8,7 +8,6 @@ Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solut
 > [!TIP]
 > Recent work experiences are listed in my [resume](https://github.com/ebsaral/ebsaral/blob/main/resume/english.pdf). My LinkedIn account is currently out of order.
 >
-------
 
 ## (Some) Open Source Contributions
 
