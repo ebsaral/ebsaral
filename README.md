@@ -6,7 +6,7 @@ A _funnywise_ human with engineering, thinking and artistic skills: Human-centri
 Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer, Spirit Guide.
 
 > [!TIP]
-> Recent work experiences are listed in my [resume](https://github.com/ebsaral/ebsaral/blob/main/resume/english.pdf). My LinkedIn account is currently out of order.
+> Recent work experiences are listed in my [resume](https://github.com/ebsaral/ebsaral/blob/main/resume/english.pdf). I have no LinkedIn account at the moment.
 >
 
 ## (Some) Open Source Contributions
