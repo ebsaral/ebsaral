@@ -11,7 +11,7 @@ Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solut
 
 ## (Some) Open Source Contributions
 
-- *2022* JavaScript: [https://github.com/ebsaral/create-full-sls-app](https://github.com/ebsaral/create-full-sls-app): A CLI tool to create Serverless boilerplate applications
+- *2022* JavaScript: [ebsaral/create-full-sls-app](https://github.com/ebsaral/create-full-sls-app): A CLI tool to create Serverless boilerplate applications
 - *2022* JavaScript: [npm/cli](https://github.com/npm/cli/pull/4191): show warning when last version is being removed
 - *2019* Python    : [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils/pull/285): disable model save signals
 - *2015* Python    : [mozilla/unicode-slugify](https://github.com/mozilla/unicode-slugify/pull/14): only_ascii boolean with the support of unidecode
