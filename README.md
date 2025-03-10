@@ -33,3 +33,5 @@ Social sciences, engineering, logical spirituality, creative writing (poem, arti
 [BSc in Computer Science](https://github.com/ebsaral/ebsaral/blob/main/personal%20docs/transcript.pdf) from Koç University, Istanbul. [^1]
 
 [^1]: Life experience > formal education.
+
+    "I feel therefore I am."
