@@ -34,4 +34,4 @@ Social sciences, engineering, logical spirituality, creative writing (poem, arti
 
 [^1]: Life experience > formal education.
 
-    "I feel therefore I am."
+> "I feel therefore I am."
