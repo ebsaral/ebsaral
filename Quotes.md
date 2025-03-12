@@ -32,7 +32,7 @@ Money, as an example, is a temporary power since it can't buy health.
 
 An enemy is not necessarily a person; it can also be a bad experience.
 
-### "If you worry about looking bad next to someone, you are already a bad in the scale of growing together."
+### "If you worry about looking bad next to someone, you are already a bad person in the scale of growing together."
 
 Being humble enough to learn from mistakes is an essential item for your growth circle.
 
