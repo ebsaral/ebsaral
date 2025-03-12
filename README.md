@@ -20,7 +20,8 @@ Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solut
 ------
 
 ## Values
-- 0.t = 1 where t = ♾️
+
+`|0.t| ≈ 1, where t = ∞`
 
 ### Favorite Personality Traits
 Empath, creative, (mostly) direct, honest, outgoing, fun & humorous, kind, helpful, solution oriented, educative, innovative, witty, curious, visionary, debater, fast learner, adventurous, spontaneous, authentic, cosmopolitan...
