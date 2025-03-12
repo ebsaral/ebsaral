@@ -8,17 +8,22 @@ Some quotes screwed out from a collective mind of one person [^1].
 Example:
 
 ```javascript
-let age = 0
+let value = Infinity
+let self = undefined
 
-while(Infinity) {
+while(true) {
     try {
-        me(age, value);
-    } catch (e) {
+        if(!self) {
+            self = me(value)
+        }
+        self.refresh()
+    }
+    catch (e) {
         console.error(e)
-        update(e, value)       
+        self.update(e)   
     }
     finally {
-        age += 1
+        self.reset()
     }
 }
 ```
