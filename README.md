@@ -6,7 +6,7 @@ A _funnywise_ human with engineering, thinking and artistic skills: Human-centri
 Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer, Spirit Guide.
 
 > [!NOTE]
-> Recent work experiences are listed in my [resume](resume/english5.0.pdf). I have no LinkedIn account at the moment.
+> Recent work experiences are listed in my [resume](resume/english5.0.pdf).
 >
 
 ## (Some) Open Source Contributions
