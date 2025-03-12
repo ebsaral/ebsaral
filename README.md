@@ -6,7 +6,7 @@ A _funnywise_ human with engineering, thinking and artistic skills: Human-centri
 Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer, Spirit Guide.
 
 > [!NOTE]
-> Recent work experiences are listed in my [resume](https://github.com/ebsaral/ebsaral/blob/main/resume/english5.0.pdf). I have no LinkedIn account at the moment.
+> Recent work experiences are listed in my [resume](resume/english5.0.pdf). I have no LinkedIn account at the moment.
 >
 
 ## (Some) Open Source Contributions
@@ -22,6 +22,10 @@ Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solut
 ## Values
 
 `|0.t| ≈ 1, where t = ∞`
+
+> [!TIP]
+> You can view some of my quotes [here](Quotes.md).
+>
 
 ### Favorite Personality Traits
 Empath, creative, (mostly) direct, honest, outgoing, fun & humorous, kind, helpful, solution oriented, educative, innovative, witty, curious, visionary, debater, fast learner, adventurous, spontaneous, authentic, cosmopolitan...
