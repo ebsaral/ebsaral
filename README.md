@@ -5,7 +5,7 @@ A _funnywise_ human with engineering, thinking and artistic skills: Human-centri
 ## Work Titles
 Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer, Spirit Guide.
 
-> [!TIP]
+> [!NOTE]
 > Recent work experiences are listed in my [resume](https://github.com/ebsaral/ebsaral/blob/main/resume/english5.0.pdf). I have no LinkedIn account at the moment.
 >
 
