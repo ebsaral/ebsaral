@@ -20,10 +20,10 @@ while(true) {
     }
     catch (e) {
         console.error(e)
-        self.update(e)   
+        self.reset(e)   
     }
     finally {
-        self.reset()
+        self.update()
     }
 }
 ```
