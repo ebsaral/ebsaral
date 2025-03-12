@@ -2,8 +2,10 @@
 
 A _funnywise_ human with engineering, thinking and artistic skills: Human-centric approach to product and tech development for long term solutions.
 
-## Work Experience
-Team Lead, Project / Product Manager, People Manager, Engineering Manager, Solutions Engineer, Spirit Guide.
+## (Desired) Work Titles
+- **High Experience**: Team Lead, Product / Project Manager, Spirit Guide.
+- **Medium Experience**: Engineering Manager, Solutions Engineer.
+- **Low Experience**: People Manager.
 
 > [!NOTE]
 > Recent work experiences are listed in my [resume](resume/english5.0.pdf).
