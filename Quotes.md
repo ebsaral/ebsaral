@@ -41,5 +41,8 @@ An enemy is not necessarily a person; it can also be a bad experience.
 
 Being humble enough to learn from mistakes is an essential item for your growth circle.
 
+### "Those who left without an absolute need for becoming one was right."
+
+A multi-dimensional thinking on `|0.t| ≈ 1, where t = ∞`: Explanation of universe spread over time as being a single organism divided in different parts as wholes. 0 is an absorbing element and t is time spent in evolution. Every time frame spent far away from reaching infinity resets itself to zero…
 
 [^1]: That one person he's talking about is actually me. :)
