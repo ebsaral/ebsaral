@@ -5,10 +5,12 @@ A _funnywise_ human with engineering, thinking and artistic skills: Human-centri
 ## (Desired) Work Titles
 - **High Experience**: Team Lead, Product / Project Manager, Spirit Guide.
 - **Medium Experience**: Engineering Manager, Solutions Engineer.
-- **Low Experience**: People Manager.
+- **Low Experience**: People Manager. [^1]
 
 > [!NOTE]
 > Recent work experiences are listed in my [resume](resume/english5.0.pdf).
+>
+> During my current career break, I mainly focus on improving my knowledge and skills in social sciences.
 >
 
 ## (Some) Open Source Contributions
@@ -37,3 +39,5 @@ Social sciences, engineering, logical spirituality, creative writing (poem, arti
 
 ## Formal Education
 [BSc in Computer Engineering](https://github.com/ebsaral/ebsaral/blob/main/docs/transcript.pdf) from Koç University, Istanbul.
+
+[^1]: Current company setups usually do not align with my ideal People Manager responsibilities. Because I'm on the side of being fair to all employees with my experienced guidance style.

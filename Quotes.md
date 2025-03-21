@@ -3,38 +3,46 @@
 Some quotes screwed out from a collective mind of one person [^1].
 
 
-### Be a bug of your world until there is no exception to ruin its code.
+### "Be a bug of your world until there is no exception to ruin its code."
 
 Example:
 
 ```javascript
-let age = 0
+let value = Infinity
+let self = undefined
 
-while(Infinity) {
+while(true) {
     try {
-        me(age, value);
-    } catch (e) {
+        if(!self) {
+            self = me(value)
+        }
+        self.refresh()
+    }
+    catch (e) {
         console.error(e)
-        update(e, value)       
+        self.reset(e)   
     }
     finally {
-        age += 1
+        self.update()
     }
 }
 ```
 
 
-### A power is not a gift until it's used for good.
+### "A power is not a gift until it's used for good."
 
 Money, as an example, is a temporary power since it can't buy health.
 
-### The best revenge is to be a better person than any enemy. Then there is neither revenge nor enemy.
+### "The best revenge is to be a better person than any enemy. Then there is neither revenge nor enemy."
 
 An enemy is not necessarily a person; it can also be a bad experience.
 
-### If you worry about looking bad next to someone, you are already a bad in the scale of growing together.
+### "If you worry about looking bad next to someone, you are already a bad person in the scale of growing together."
 
 Being humble enough to learn from mistakes is an essential item for your growth circle.
 
+### "Those who left without an absolute need for becoming one was right."
+
+A multi-dimensional thinking on `|0.t| ≈ 1, where t = ∞`: Explanation of universe spread over time as being a single organism divided in different parts as wholes. 0 is an absorbing element and t is time spent in evolution. Every time frame spent far away from reaching infinity resets itself to zero…
 
 [^1]: That one person he's talking about is actually me. :)
