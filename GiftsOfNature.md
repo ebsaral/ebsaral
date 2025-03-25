@@ -1,4 +1,4 @@
-## Some of Nature’s Gifts that I earned
+## Some of Nature’s Gifts that I've earned
 
 ### Healthy Mind and Body
 A priceless balance, beyond money, rooted in ancient wisdom.
