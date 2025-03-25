@@ -1,16 +1,16 @@
-# Hey, this is Emin 5.0! 👋 
+# Hey, this is Emin 5.5! 👋 
 
 A _funnywise_ human with engineering, thinking and artistic skills: Human-centric approach to product and tech development for long term solutions.
 
 ## (Desired) Work Titles
-- **High Experience**: Team Lead, Product / Project Manager, Spirit Guide.
+- **High Experience**: Spirit Guide, Team Lead, Product / Project Manager.
 - **Medium Experience**: Engineering Manager, Solutions Engineer.
 - **Low Experience**: People Manager. [^1]
 
 > [!NOTE]
-> Recent work experiences are listed in my [resume](resume/english5.0.pdf).
+> Recent work experiences are listed in my [resume](resume/english5.5.pdf).
 >
-> During my current career break, I mainly focus on improving my knowledge and skills in social sciences.
+> During my current career break, I mainly focus on improving my knowledge and skills in social sciences. See details here: [Gifts Of Nature](/GiftsOfNature.md).
 >
 
 ## (Some) Open Source Contributions
