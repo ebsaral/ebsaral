@@ -45,4 +45,8 @@ Being humble enough to learn from mistakes is an essential item for your growth 
 
 A multi-dimensional thinking on `|0.t| ≈ 1, where t = ∞`: Explanation of universe spread over time as being a single organism divided in different parts as wholes. 0 is an absorbing element and t is time spent in evolution. Every time frame spent far away from reaching infinity resets itself to zero…
 
+### Time only passes to move our responsibility further.
+
+The universe's time is frozen at infinity since its beginning. So nature doesn't die but loops in itself. We, mostly humans, have a sense of time because we are mortals under nature's guidance. 
+ 
 [^1]: That one person he's talking about is actually me. :)
