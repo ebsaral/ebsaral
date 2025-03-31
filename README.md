@@ -23,19 +23,13 @@ A _funnywise_ human with engineering, thinking and artistic skills: Human-centri
 
 ------
 
-## Values
+## Social Values
 
-`|0.t| ≈ 1, where t = ∞`
+Seeking truth in **Freedom and Equality**: `|0.t| ≈ 1, where t = ∞`
 
 > [!TIP]
 > You can view some of my quotes [here](Quotes.md).
 >
-
-### Favorite Personality Traits
-Empath, creative, (mostly) direct, honest, outgoing, fun & humorous, kind, helpful, solution oriented, educative, innovative, witty, curious, visionary, debater, fast learner, adventurous, spontaneous, authentic, cosmopolitan...
-
-### Active Interests & Talents
-Social sciences, engineering, logical spirituality, creative writing (poem, article, story), music (almost all genres), freestyle dancing, acting, creative cooking, team sports, driving, biking, painting, movies, art criticism, activism, picky reading, detailed impersonation, nature synchronization, attention to details, continuous growth...
 
 ## Formal Education
 [BSc in Computer Engineering](https://github.com/ebsaral/ebsaral/blob/main/docs/transcript.pdf) from Koç University, Istanbul.
