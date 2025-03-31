@@ -3,7 +3,7 @@
 A _funnywise_ human with engineering, thinking and artistic skills: Human-centric approach to product and tech development for long term solutions.
 
 ## (Desired) Work Titles
-- **High Experience**: Spirit Guide, Team Lead, Product / Project Manager.
+- **High Experience**: Spirit Guide, Team Lead, Product / Project Manager, Senior Software Engineer.
 - **Medium Experience**: Engineering Manager, Solutions Engineer.
 - **Low Experience**: People Manager. [^1]
 
