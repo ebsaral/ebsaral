@@ -8,7 +8,7 @@ Spirit Guide, Team Lead, Product / Project Manager, Engineering Manager, Solutio
 > [!NOTE]
 > Recent work experiences are listed in my [resume](resume/english5.5.pdf).
 >
-> During my current career break, I mainly focus on improving my knowledge and skills in social sciences. For details: [Gifts Of Nature](/GiftsOfNature.md).
+> During my current career break, I mainly focus on improving my knowledge and skills in social sciences. For details: [Nature's Gifts](/GiftsOfNature.md).
 >
 
 ## (Some) Open Source Contributions
