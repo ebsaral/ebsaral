@@ -37,9 +37,9 @@ Money, as an example, is a temporary power since it can't buy health.
 
 An enemy is not necessarily a person; it can also be a bad experience.
 
-### "If you worry about looking bad next to someone, you are already a bad person in the scale of growing together."
+### "Your worth is not defined by others in the scale of growing together."
 
-Being humble enough to learn from mistakes is an essential item for your growth circle.
+It takes guts to admit failure(s) and learn from them. Being humble enough to learn from mistakes is an essential item for your growth circle. 
 
 ### "Those who left without an absolute need for becoming one was right."
 
