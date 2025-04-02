@@ -25,7 +25,7 @@ I can sense the "souls" of those from the past or future, channeling their prese
 
 --- 
 
-**Relevant Medium articles**
+**Relevant Medium articles, written by me:**
 
 - [The Equation of The Universe: Equality & Freedom](https://medium.com/@ebsaral/the-equation-of-the-universe-equality-freedom-338e708c22f9)
 - [Why do we get sick and how to prevent it?](https://medium.com/@ebsaral/why-do-we-get-sick-and-how-to-prevent-it-f66aee6ec425)
