@@ -15,9 +15,6 @@ Sensing others’ thoughts and emotions, I blend them to spark fresh, creative i
 ### Cumulative Energy
 I feel the life force of others, allowing me to dance for hours and uplift their spirits.
 
-### Water as a Life Source
-Water transforms to meet my needs, inspired by nature or others’ thoughts.
-
 ### Timeless Empathy
 I can sense the "souls" of those from the past or future, channeling their presence in my expressions.
 
