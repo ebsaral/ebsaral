@@ -1,4 +1,4 @@
-# Hey, this is Emin 6.0! 👋 
+# Hey, this is Emin 6.1! 👋 
 
 A _funnywise_ human with engineering, thinking and artistic skills: Human-centric approach to product and tech development for long term solutions.
 
