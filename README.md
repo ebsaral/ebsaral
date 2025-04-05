@@ -23,7 +23,7 @@ Spirit Guide, Team Lead, Product / Project Manager, Engineering Manager, Solutio
 
 ## Social Values
 
-Revealing truth in **Freedom and Equality**: `|0.t| ≈ 1, where t = ∞`
+Revealing truth in **Equality & Freedom**: `|0.t| ≈ 1, where t = ∞`
 
 > [!TIP]
 > You can view some of my quotes [here](Quotes.md).
