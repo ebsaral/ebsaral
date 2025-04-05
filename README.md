@@ -6,7 +6,7 @@ A _funnywise_ human with engineering, thinking and artistic skills: Human-centri
 Spirit Guide, Team Lead, Product / Project Manager, Engineering Manager, Solutions Engineer, Senior Software Engineer, People Manager.
 
 > [!NOTE]
-> Recent work experiences are listed in my **[resume](resume/english.pdf)**.
+> Recent work experiences are listed in my **[resume](https://ebsaral.vercel.app/files/cv/english.pdf)**.
 >
 > During my current career break, I mainly focus on improving my knowledge and skills in social sciences. For details: **[Nature's Gifts](/GiftsOfNature.md)**.
 >
