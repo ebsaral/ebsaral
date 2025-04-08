@@ -5,7 +5,7 @@ Some quotes screwed out from a collective mind of one person [^1].
 
 ### "Be a bug of your world until there is no exception to ruin its code."
 
-Example:
+Pseudocode:
 
 ```javascript
 let value = Infinity
