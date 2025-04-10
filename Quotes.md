@@ -49,7 +49,7 @@ A multi-dimensional thinking on `|0.t| ≈ 1, where t = ∞`: Explanation of uni
 
 I don't even know when we lost our touch with nature thus each other. Let's focus on future as much as we can.
 
-### Time only passes to move our responsibility further.
+### "Time only passes to move our responsibility further."
 
 The universe's time is frozen at infinity since its beginning. So nature doesn't die but loops in itself. We, mostly humans, have a sense of time because we are mortals under nature's guidance. 
  
