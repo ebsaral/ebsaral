@@ -5,7 +5,7 @@ Years of life experience with [a lot of challenges and rewards](https://medium.c
 A **priceless** balance, beyond money, rooted in ancient wisdom. In simple words: **I don't get sick** and **I can't be poisoned**.
 
 ## Harmonizing with Nature
-I feel music and some natural movements deeply **before they begin** — like dancing with destiny through invisible threads.
+I feel music and some natural movements deeply **before they begin** — like dancing with destiny through invisible threads. So **nothing is a *coincidence*** anymore.
 
 ## Rapid Learning
 I **quickly master** new topics and skills with little effort once focused.
