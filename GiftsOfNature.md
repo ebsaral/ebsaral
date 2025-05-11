@@ -10,14 +10,14 @@ I feel music and some natural movements deeply **before they begin** — like da
 ## Rapid Learning
 I **quickly master** new topics and skills with little effort once focused.
 
+## Timeless Empathy
+I **sense the *spirits*** of those from the past or future (mostly unconsciously), channeling their presence in my expressions. I can do empathy with anyone **directly or indirectly**.
+
 ## Cumulative Energy & Creative Inspiration
 I feel **the life force** of others around me. This allows me to dance or move for hours and possibly uplift and inspire their spirits. Sensing others’ thoughts and emotions, I **blend** them to spark fresh, creative ideas and solutions.
 
-## Water as a Life Source
+## Water as a Life Source & Protection
 Water transforms to **meet nature's needs** thus mine, driven by choices of living beings. And, any damage caused in and around my life willingly **goes back to the responsibles** much stronger.
-
-## Timeless Empathy
-I **sense the *spirits*** of those from the past or future (mostly unconsciously), channeling their presence in my expressions. I can do empathy with anyone **directly or indirectly**.
 
 *... and happy to share (more) with everyone since these are the proofs of **being one** and it belongs to nature.* :)
 
