@@ -1,6 +1,8 @@
 # Some Natural Gifts that I've earned
 Years of life experience with [a lot of challenges and rewards](https://medium.com/@ebsaral/challenges-levels-rewards-and-punishments-in-nature-7b31286e20ae) to pursue my journey better.
 
+🤘🧿🧿🤘
+
 ## Healthy Mind and Body
 A **priceless** balance, beyond money, rooted in ancient wisdom. In simple words: **I don't get sick** and **I can't be poisoned**.
 
