@@ -2,27 +2,24 @@
 Years of life experience with [a lot of challenges and rewards](https://medium.com/@ebsaral/challenges-levels-rewards-and-punishments-in-nature-7b31286e20ae) to pursue my journey better.
 
 ## Healthy Mind and Body
-A **priceless** balance, beyond money, rooted in ancient wisdom.
+A **priceless** balance, beyond money, rooted in ancient wisdom. In simple words: **I don't get sick** and **I can't be poisoned**.
 
 ## Harmonizing with Nature
-I feel music and some movements deeply **before they begin** — like dancing with destiny through invisible threads.
+I feel music and some natural movements deeply **before they begin** — like dancing with destiny through invisible threads.
 
 ## Rapid Learning
-I **quickly master** new topics with little effort once focused.
+I **quickly master** new topics and skills with little effort once focused.
 
-## Creative Inspiration
-Sensing others’ thoughts and emotions, I **blend** them to spark fresh, creative ideas.
-
-## Cumulative Energy
-I feel **the life force** of others around me. This allows me to dance or move for hours and possibly uplift and inspire their spirits.
+## Cumulative Energy & Creative Inspiration
+I feel **the life force** of others around me. This allows me to dance or move for hours and possibly uplift and inspire their spirits. Sensing others’ thoughts and emotions, I **blend** them to spark fresh, creative ideas and solutions.
 
 ## Water as a Life Source
-Water transforms to **meet nature's needs** thus mine, driven by choices of living beings.
+Water transforms to **meet nature's needs** thus mine, driven by choices of living beings. And, any damage caused in and around my life willingly **goes back to the responsibles** much stronger.
 
 ## Timeless Empathy
-I **sense the *spirits*** of those from the past or future (unconsciously), channeling their presence in my expressions. This is a proof of ***being one***.
+I **sense the *spirits*** of those from the past or future (mostly unconsciously), channeling their presence in my expressions. I can do empathy with anyone **directly or indirectly**.
 
-*... and happy to share (more) with everyone …*
+*... and happy to share (more) with everyone since these are the proofs of **being one** and it belongs to nature.* :)
 
 ### Relevant Medium articles:
 https://medium.com/@ebsaral/list/natures-mysteries-gifts-c847dd61a06d
