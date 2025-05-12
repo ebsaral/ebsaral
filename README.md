@@ -13,4 +13,4 @@ A _funnywise_ human with engineering, thinking[^1] and artistic skills.
 - *2015* Ruby      : [neektza/rmeetup](https://github.com/neektza/rmeetup/pull/4): Add delete endpoint and enhance some methods
 
   [^1]: Thinking in the form of educated[^2] feeling.
-  [^2]: Educated in the form of [extensive life experience](GiftsOfNature.md).
+  [^2]: Educated in the form of [extensive life experience](https://github.com/ebsaral/ebsaral/blob/main/GiftsOfNature.md).
