@@ -19,7 +19,7 @@ I **sense the *spirits*** of those from the past or future (mostly unconsciously
 I feel **the life force** of others around me. This allows me to dance or move for hours and possibly uplift and inspire their spirits. Sensing others’ thoughts and emotions, I **blend** them to spark fresh, creative ideas and solutions.
 
 ## Water as a Life Source & Protection
-Water transforms to **meet nature's needs** thus mine, driven by choices of living beings. And, any damage caused in and around my life willingly **goes back to the responsibles** much stronger.
+Water transforms to **meet nature's needs** thus mine, driven by choices of living beings. And, any damage caused in and around my life willingly **goes back to the responsibles** much stronger within nature.
 
 *... and happy to share (more) with everyone since these are the proofs of **being one** and it belongs to nature.* :)
 
