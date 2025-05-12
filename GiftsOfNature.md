@@ -1,4 +1,6 @@
-# Some Natural Gifts that I've earned 🤘🧿🧿🤘
+# Some Natural Gifts that I've earned
+
+🤘🧿🧿🤘  
 Years of life experience with [a lot of challenges and rewards](https://medium.com/@ebsaral/challenges-levels-rewards-and-punishments-in-nature-7b31286e20ae) to pursue my journey better.
 
 ## Healthy Mind and Body
