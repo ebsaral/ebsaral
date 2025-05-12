@@ -1,6 +1,6 @@
 # Hey, this is Emin! 👋 
 
-A _funnywise_ human with engineering, thinking and artistic skills.
+A _funnywise_ human with engineering, thinking[^1] and artistic skills. 
 
 *My current resume can be found [here](https://ebsaral.vercel.app/files/cv/english.pdf).*
 
@@ -11,3 +11,6 @@ A _funnywise_ human with engineering, thinking and artistic skills.
 - *2019* Python    : [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils/pull/285): Add an option to disable signals on save method
 - *2015* Python    : [mozilla/unicode-slugify](https://github.com/mozilla/unicode-slugify/pull/14): Add unidecode support and `only_ascii` option
 - *2015* Ruby      : [neektza/rmeetup](https://github.com/neektza/rmeetup/pull/4): Add delete endpoint and enhance some methods
+
+  [^1]: Thinking in the form of educated[^2] feeling.
+  [^2]: Educated in the form of extensive life experience.
