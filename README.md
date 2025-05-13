@@ -1,4 +1,4 @@
-# Hey, this is Emin! 👋 
+# Hey! 👋 
 
 A _funnywise_ human with engineering, thinking and artistic skills. 
 
