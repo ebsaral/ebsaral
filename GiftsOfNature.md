@@ -21,7 +21,7 @@ I feel **the life force** of others around me. This allows me to dance or move f
 ## Water as a Life Source & Protection
 Water transforms to **meet nature's needs** thus mine, driven by choices of living beings. And, any damage caused in and around my life willingly **goes back to the responsibles** much stronger within nature.
 
-*... and happy to share (more) with everyone since these are the proofs of **being one** and it belongs to nature.* :)
+*... and happy to share these and more with everyone since these are the proofs of **being one** and it belongs to nature.* :)
 
 ### Relevant Medium articles:
 https://medium.com/@ebsaral/list/natures-mysteries-gifts-c847dd61a06d
