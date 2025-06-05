@@ -34,8 +34,7 @@ As a master puppet in the world of puppets, I enable other people to get better:
 *My talents and knowledge also get inspired by people around me. So I give what I learn from them **back to nature's being in a multi-directional education cycle**.*
 
 ## Rapid Learning
-I **quickly master** new topics and skills with little effort once focused.  
-I feel motivated and move better in an environment where I can pursue my interests and goals within mutual respect.
+I **quickly master** new topics and skills with little effort once focused. I feel motivated and move better in an environment where I can pursue my interests and goals within mutual respect.
 
 ## Healthy Mind and Body
 A **priceless** balance, beyond money, rooted in ancient wisdom. In simple words: **I don't get sick** and **I can't be poisoned**.  
