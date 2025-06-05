@@ -22,6 +22,8 @@ Object movement examples:
 ## Timeless Empathy
 I **sense the *spirits*** of those from the past or future (mostly unconsciously), channeling their presence in my expressions. I can do empathy with anyone **directly** or **indirectly**.  
 
+**Example:** When I speak on a random subject or move within an unrelated context, my spirit may begin to reflect the person you're thinking about. My body language might even shift to mirror their familiar behaviors. Though I'm fully aware of it as it happens, I also know deep down that your thoughts are with someone else. Sometimes I may guess who that person is, and this is mostly fun.
+
 *Doing empathy with someone doesn't necessarily mean that I agree with their actions, yet everybody is free to choose their actions in nature.*
 
 ## Cumulative Energy & Creative Inspiration
