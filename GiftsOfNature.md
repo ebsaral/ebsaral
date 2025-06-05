@@ -65,5 +65,6 @@ Remember, **you also have all these gifts** visibly hidden in your journey. So, 
 I'm happy to share these gifts and more with **everyone** because these are the proofs of **being one**, so it all belongs to nature. :)
 
 ### Relevant Medium articles:
-*These articles are just summaries. The details are to be shared in time.*
+*These articles are just summaries. The details are to be shared in time.*  
+
 https://medium.com/@ebsaral/list/natures-mysteries-gifts-c847dd61a06d
