@@ -39,6 +39,7 @@ I feel motivated and move better in an environment where I can pursue my interes
 
 ## Healthy Mind and Body
 A **priceless** balance, beyond money, rooted in ancient wisdom. In simple words: **I don't get sick** and **I can't be poisoned**.  
+
 Any possible harmful action towards me gets a warning or blocking from nature's being until there is no threat anymore.
 
 
@@ -49,7 +50,7 @@ Any possible harmful action towards me gets a warning or blocking from nature's 
 Remember, **you also have all these gifts** visibly hidden in your journey. So, testing my gifts (talents) instead of trying (seeing) them might possibly deceive your own intention(s), and that choice isn’t mine to make.
 
 > [!NOTE]  
-> There's no psychological or scientific trick behind my actions. I simply move or try to move.  
+> There's no psychological or scientific trick behind my actions. I simply move or try to move. I don't have any intention to harm anyone.    
 
 > [!WARNING] 
 > A friendly reminder: Your actions (every choice you make) will be rewarded or punished by your own body cells.  
