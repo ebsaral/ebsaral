@@ -4,7 +4,8 @@
 Years of life experience with [a lot of challenges and rewards](https://medium.com/@ebsaral/challenges-levels-rewards-and-punishments-in-nature-7b31286e20ae) to pursue my journey better.
 
 ## Water as a Life Source & Protection
-Water transforms to **meet nature's needs** thus mine, driven by choices of living beings. And, any damage caused in and around my life willingly **goes back to the responsibles** much stronger within nature. This way I can reach my goals without worrying about possible roadblocks.
+Water transforms to **meet nature's needs** thus mine, driven by choices of living beings. And, any damage caused in and around my life willingly **goes back to the responsibles** much stronger within nature. This way I can reach my goals without worrying about possible roadblocks.  
+
 
 ## Harmonizing with Nature
 I feel some natural movements along with their sounds deeply **before they begin** — like dancing with destiny through invisible threads. So **nothing is a *coincidence*** anymore. This enables me to have **a great vision in any topic**.  
@@ -39,16 +40,25 @@ Any possible harmful action towards me gets a warning or blocking from nature's 
 
 ---
 
-**Hey!..**  
+**Hey!**  I know these all sound **magical** *(and maybe a bit scary)* to you while it's not a surprise for me anymore. If you would like to witness the validity of my gifts, **feel free to try me** with honesty and goodwill.  
 
-I know these all sound **magical** *(and maybe a bit scary)* to you while it's not a surprise for me anymore. If you would like to witness the validity of my gifts, **feel free to try me** with honesty and goodwill.  
+Remember, **you also have all these gifts** visibly hidden in your journey. So, testing my gifts (talents) instead of trying (seeing) them might possibly deceive your own intention(s), and that choice isn’t mine to make.
 
-Remember, you also have all these gifts visibly  hidden in your journey. So testing my gifts instead of trying (seeing) them might possibly fool your intention(s), and it isn't my choice.
+> [!NOTE]  
+> There's no psychological or scientific trick behind my actions. I simply move or try to move.  
 
+> [!WARNING] 
+> A friendly reminder: Your actions (every choice you make) will be rewarded or punished by your own body cells.  
 
-*... I'm happy to share these gifts and more with **everyone** because these are the proofs of **being one**, so it all belongs to nature.* :)
+> [!CAUTION]
+> Every living being is subject to the subtle influence of nature — an unstoppable force beyond the reach of any known intelligence. Nature already knows the entirety of who you are, just as you instinctively sense it does. Any misuse of power for harmful intent will inevitably lead to consequences, unfolding slowly but surely over time.  
+
+> [!TIP]
+> Obstructing any being from fulfilling nature's purpose will inevitably lead to harmful consequences. That's why you must not ignore your responsibility — regardless of your title, occupation, or reputation.
 
 ---
+
+I'm happy to share these gifts and more with **everyone** because these are the proofs of **being one**, so it all belongs to nature. :)
 
 ### Relevant Medium articles:
 *These articles are just summaries. The details are to be shared in time.*
