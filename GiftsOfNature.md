@@ -16,6 +16,7 @@ Object movement examples:
 - I can feel what another person feels in their body; how much it hurts and where it hurts.
 - I can feel the tension on a car's parts; where it requires a repair and how serious it is. 
 - Any decision being taken anywhere, even if they are taken behind closed doors or in the middle of nowhere. This only works if I'm allowed to know something. So, I don't (and can't) know everything.
+- When I'm in traffic, I can feel what other drivers are about to do — like signaling or turning. Then I know if I should adjust my speed or make a turn. I can also sense when a pedestrian is about to cross or when the road ahead is clear enough to speed up. I can also navigate to any desired location without the need of current technology but it usually makes my route longer.  
 
 *Sometimes I feel movements days before they happen due to the lack of having good exceptions in certain environments. I mostly don't focus on a lot of movements.*
 
