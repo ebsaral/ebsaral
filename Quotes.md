@@ -3,9 +3,9 @@
 My quotes followed by equality and freedom in nature: `|0.t| ≈ 1 where t = ∞`
 
 
-### "Human must learn their animality before calling themselves truly human being."
+### "Human must learn their animality before calling themselves human being truly."
 
-Having a superior complex in nature throughout years, humans have neglected them being animals. It's crucial to understand animality in humans to build a civilization on top of nature's being. 
+It's crucial to understand animality in humans to build a civilization on top of nature's being. 
 
 ### "Be a bug of your world until there is no exception to ruin its code."
 
