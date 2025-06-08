@@ -57,5 +57,5 @@ I don't even know when we lost our touch with nature thus each other. Let's focu
 
 The universe's time is frozen at infinity since its beginning. So nature doesn't die but loops in itself. We, mostly humans, have a sense of time because we are mortals under nature's guidance. 
 
-### Democracy is only an illusion if kingdoms are distributed over different companies.
+### "Democracy is only an illusion if kingdoms are distributed over different companies."
 We heard about revolutions, industrializations and democracy in our common histories. We have never seen their capitals being shared among citizens equally. Democracy has never actually existed so far.
