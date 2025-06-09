@@ -1,6 +1,5 @@
 # Some Natural Gifts I've earned
 
-🤘🧿🧿🤘  
 Years of life experience with [a lot of challenges and rewards](https://medium.com/@ebsaral/challenges-levels-rewards-and-punishments-in-nature-7b31286e20ae) to pursue my journey better.
 
 ## Water as a Life Source & Protection
