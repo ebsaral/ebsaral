@@ -39,7 +39,10 @@ I **quickly master** new topics and skills with little effort once focused. I fe
 ## Healthy Mind and Body
 A **priceless** balance, beyond money, rooted in ancient wisdom. In simple words: **I don't get sick** and **I can't be poisoned**.  
 
-Any possible harmful action towards me gets a warning or blocking from nature's being until there is no threat anymore.
+Any possible harmful action towards me gets a warning or blocking from nature's being until there is no threat anymore.  
+
+**Example:**
+- If somebody is going or planning to harm me, their body cells attack them first in the form of a warning. Every harm caused against me turns into a protection. If I am not dead, I become much stronger.  
 
 
 ---
