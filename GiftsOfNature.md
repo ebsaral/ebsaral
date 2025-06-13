@@ -27,7 +27,7 @@ I **sense the *spirits*** of those from the past or future (mostly unconsciously
 *Doing empathy with someone doesn't necessarily mean that I agree with their actions, yet everybody is free to choose their actions in nature.*
 
 ## Cumulative Energy & Creative Inspiration
-I feel **the life force** of others around me in both near and far distance. This allows me to dance or move for hours and possibly uplift and inspire their spirits. Sensing other living beings, I **blend** their spirits to spark fresh, creative ideas and solutions for all problems within nature's guidance.  
+I feel **the life force** of others around me in both near and far distance. This allows me to dance or move for hours and possibly uplift and inspire their spirits. Sensing other living beings, I **blend** their spirits to spark fresh, creative ideas and solutions for all problems within nature's guidance. In every movement or speech I make, you have a chance to learn something about yourself or your environment.  
 
 As a master puppet in the world of puppets, I enable other people to get better: I simply **inspire everyone's being** by introducing new (existing) perspectives into their mindsets with my experienced empathy talent and knowledge.  
 
