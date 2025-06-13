@@ -29,7 +29,7 @@ I **sense the *spirits*** of those from the past or future (mostly unconsciously
 ## Cumulative Energy & Creative Inspiration
 I feel **the life force** of others around me in both near and far distance. This allows me to dance or move for hours and possibly uplift and inspire their spirits. Sensing other living beings, I **blend** their spirits to spark fresh, creative ideas and solutions for all problems within nature's guidance. In every movement or speech I make, you have a chance to learn something about yourself or your environment.  
 
-As a master puppet in the world of puppets, I enable other people to get better: I simply **inspire everyone's being** by introducing new (existing) perspectives into their mindsets with my experienced empathy talent and knowledge.  
+As a master puppet in the world of puppets, I enable other people to get better: I simply **inspire everyone's being** by introducing new (existing) perspectives into their mindsets with my experienced empathy talent and knowledge. The details make every life more meaningful.  
 
 *My talents and knowledge also get inspired by people around me. So I give what I learn from them **back to nature's being in a multi-directional education cycle**.*
 
