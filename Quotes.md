@@ -3,6 +3,10 @@
 My quotes followed by equality and freedom in nature: `|0.t| ≈ 1 where t = ∞`
 
 
+### "Human must learn their animality before calling themselves human being truly."
+
+It's crucial to understand animality in humans to build a civilization on top of nature's being. 
+
 ### "Be a bug of your world until there is no exception to ruin its code."
 
 Pseudocode:
@@ -52,3 +56,6 @@ I don't even know when we lost our touch with nature thus each other. Let's focu
 ### "Time only passes to move our responsibility further."
 
 The universe's time is frozen at infinity since its beginning. So nature doesn't die but loops in itself. We, mostly humans, have a sense of time because we are mortals under nature's guidance. 
+
+### "Democracy is only an illusion if kingdoms are distributed over different companies."
+We heard about revolutions, industrializations and democracy in our common histories. We have never seen their capitals being shared among citizens equally. Democracy has never actually existed so far.
