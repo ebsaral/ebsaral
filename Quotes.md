@@ -64,4 +64,4 @@ We heard about revolutions, industrializations and democracy in our common histo
 
 ### "Time becomes more valuable when it's shared."  
 
-At the moment, we value ourselves by selling our time instead of sharing it. This attitude in economy disconnects people from each other and it shortens everyone's lifetime indirectly. Because people unwillingly struggle from roadblocks in current structure.  
+At the moment, we value ourselves by selling our time instead of sharing it. This attitude in economy disconnects people from each other and it shortens everyone's lifetime indirectly. Because people unwillingly struggle from roadblocks in current structure. We undirectly kill each other because we don't understand nature's reality deeply.
