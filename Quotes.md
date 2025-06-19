@@ -57,5 +57,11 @@ I don't even know when we lost our touch with nature thus each other. Let's focu
 
 The universe's time is frozen at infinity since its beginning. So nature doesn't die but loops in itself. We, mostly humans, have a sense of time because we are mortals under nature's guidance. 
 
-### "Democracy is only an illusion if kingdoms are distributed over different companies."
+### "Democracy is only an illusion if kingdoms are distributed over different companies."  
+
 We heard about revolutions, industrializations and democracy in our common histories. We have never seen their capitals being shared among citizens equally. Democracy has never actually existed so far.
+
+
+### "Time becomes more valuable when it's shared."  
+
+At the moment, we value ourselves by selling our time instead of sharing it. This attitude in economy disconnects people from each other and it shortens everyone's lifetime indirectly. Because people unwillingly struggle from roadblocks in current structure. We undirectly kill each other because we don't understand nature's reality deeply.
