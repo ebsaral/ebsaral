@@ -49,6 +49,8 @@ Any possible harmful action towards me gets a warning or blocking from nature's 
 
 **Hey!**  I know these all sound **magical** *(and maybe a bit scary)* to you while it's not a surprise for me anymore. If you would like to witness the validity of my gifts, **feel free to try me** with honesty and goodwill.  
 
+*Facing these gifts by thinking "this can't be true" is not a scientific approach. Because it is true, darling. :)*  
+
 Remember, **you also have all these gifts** visibly hidden in your journey. So, testing my gifts (talents) instead of trying (seeing) them might possibly deceive your own intention(s), and that choice isn’t mine to make.
 
 > [!NOTE]  
@@ -62,6 +64,7 @@ Remember, **you also have all these gifts** visibly hidden in your journey. So, 
 
 > [!TIP]
 > Obstructing any being from fulfilling nature's purpose will inevitably lead to harmful consequences. That's why you must not ignore your responsibility — regardless of your title, occupation, or reputation.
+
 
 ---
 
