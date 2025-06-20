@@ -61,7 +61,10 @@ The universe's time is frozen at infinity since its beginning. So nature doesn't
 
 We heard about revolutions, industrializations and democracy in our common histories. We have never seen their capitals being shared among citizens equally. Democracy has never actually existed so far.
 
-
 ### "Time becomes more valuable when it's shared."  
 
 At the moment, we value ourselves by selling our time instead of sharing it. This attitude in economy disconnects people from each other and it shortens everyone's lifetime indirectly. Because people unwillingly struggle from roadblocks in current structure. We undirectly kill each other because we don't understand nature's reality deeply.
+
+### "We don't belong to anyone or anywhere; we just try to get along on this chaotic sphere."
+
+We should redefine ourselves to find our common path to infinity. Then we can follow bigger problems easier in peace. 
