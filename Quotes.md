@@ -7,39 +7,13 @@ My quotes followed by equality and freedom in nature: `|0.t| ≈ 1 where t = ∞
 
 It's crucial to understand animality in humans to build a civilization on top of nature's being. 
 
-### "Be a bug of your world until there is no exception to ruin its code."
-
-Pseudocode:
-
-```javascript
-let value = Infinity
-let self = undefined
-
-while(true) {
-    try {
-        if(!self) {
-            self = me(value)
-        }
-        self.refresh()
-    }
-    catch (e) {
-        console.error(e)
-        self.reset(e)   
-    }
-    finally {
-        self.update()
-    }
-}
-```
-
-
 ### "A power is not a gift until it's used for good."
 
 Money, as an example, is a temporary power since it can't buy health.
 
 ### "The best revenge is to be a better person than any enemy. Then there is neither revenge nor enemy."
 
-An enemy is not necessarily a person; it can also be a bad experience.
+An enemy is not necessarily a person; it can also be a bad experience. Returning no harm when it's done to you is a good approach to get better. It's harder to do empathy when you feel helpless because you must be patient. You must realize that you are not alone.
 
 ### "Your worth is not defined by others in the scale of growing together."
 
@@ -68,3 +42,28 @@ At the moment, we value ourselves by selling our time instead of sharing it. Thi
 ### "We don't belong to anyone or anywhere; we just try to get along on this chaotic sphere."
 
 We should redefine ourselves to find our common path to infinity. Then we can follow bigger problems easier in peace. 
+
+### "Be a bug of your world until there is no exception to ruin its code."
+
+Pseudocode:
+
+```javascript
+let value = Infinity
+let self = undefined
+
+while(true) {
+    try {
+        if(!self) {
+            self = me(value)
+        }
+        self.refresh()
+    }
+    catch (e) {
+        console.error(e)
+        self.reset(e)   
+    }
+    finally {
+        self.update()
+    }
+}
+```
