@@ -41,7 +41,7 @@ At the moment, we value ourselves by selling our time instead of sharing it. Thi
 
 ### "We don't belong to anyone or anywhere; we just try to get along on this chaotic sphere."
 
-We should redefine ourselves to find our common path to infinity. Then we can follow bigger problems easier in peace. 
+We must redefine ourselves to find our common path to infinity. Then we can follow bigger problems easier in peace. 
 
 ### "Be a bug of your world until there is no exception to ruin its code."
 
