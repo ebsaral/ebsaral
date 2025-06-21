@@ -3,7 +3,7 @@
 ## A _funnywise_ human with engineering, thinking and artistic skills. 
 
 I'm an engineering manager deeply committed to addressing and solving the root causes of social injustice and environmental challenges.  
-I'm eager to redirect my career toward a more meaningful and impactful purpose.
+At this point of my life, I'm more eager to redirect my career toward a more meaningful and impactful purpose.
 
 You can view my resume for politics to have a detailed look at how to solve environmental challenges via understanding nature's principles. Here are a few example topics I've began to share recently:
 - The root causes of illness and how we can prevent all diseases by aligning with natural principles.
