@@ -2,6 +2,9 @@
 
 My quotes followed by equality and freedom in nature: `|0.t| ≈ 1 where t = ∞`
 
+### "Every creature is an art piece sculptured by other minds."
+
+We are shaping each other with our thoughts, cultures and actions. In a world where everybody is responsible from each other, it gets easier to understand how we sculpt each other's shapes.
 
 ### "Human must learn their animality before calling themselves human being truly."
 
