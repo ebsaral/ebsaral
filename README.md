@@ -15,7 +15,7 @@ You can view my resume for politics to have a detailed look at how to solve envi
 
 I am now looking to join a like-minded organization where I can contribute, grow, and collaborate to create a positive change globally.
 
-*You can view my resume for politics here: [https://github.com/ebsaral/ebsaral/blob/main/files/politics.pdf](https://github.com/ebsaral/ebsaral/blob/main/files/politics.pdf)*
+*You can view my resumes here: [https://ebsaral.vercel.app/files/cv/politics.pdf](Politics) - [https://ebsaral.vercel.app/files/cv/english.pdf](Engineering Manager)*
 
 ---
 
