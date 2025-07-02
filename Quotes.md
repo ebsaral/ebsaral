@@ -10,7 +10,7 @@ We are shaping each other with our thoughts, cultures and actions. In a world wh
 
 It's crucial to understand animality in humans to build a civilization on top of nature's being. 
 
-### "A power is not a gift until it's used for good."
+### "A power is temporary if it isn't used for good."
 
 Money, as an example, is a temporary power since it can't buy health.
 
