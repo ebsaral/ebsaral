@@ -2,6 +2,8 @@
 
 ## A _funnywise_ human with engineering, thinking and artistic skills. 
 
+You can view my current resume [here(https://ebsaral.vercel.app/files/cv/english.pdf).
+
 ## (Some) Open Source Contributions
 
 - *2022* JavaScript: [npm/cli](https://github.com/npm/cli/pull/4191): Display an alert when removing last package version
