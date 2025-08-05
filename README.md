@@ -2,7 +2,7 @@
 
 ## A _funnywise_ human with engineering, thinking and artistic skills. 
 
-You can view my current resume [here(https://ebsaral.vercel.app/files/cv/english.pdf).
+You can view my current resume here(https://ebsaral.vercel.app/files/cv/english.pdf).
 
 ## (Some) Open Source Contributions
 
