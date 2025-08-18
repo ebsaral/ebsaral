@@ -46,6 +46,10 @@ At the moment, we value ourselves by selling our time instead of sharing it. Thi
 
 We must redefine ourselves to find our common path to infinity. Then we can follow bigger problems easier in peace. 
 
+### "Respect must be built around freedom, not slavery."
+
+Our "so-called wise" ancestors have built our living conditions around slavery. At this time, people's respect is mostly based on slavery. People must realize that they are usually "obeying" under superficial respect idioms.
+
 ### "Be a bug of your world until there is no exception to ruin its code."
 
 Pseudocode:
