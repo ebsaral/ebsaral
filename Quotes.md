@@ -26,7 +26,7 @@ It takes guts to admit failure(s) and learn from them. Being humble enough to le
 
 A multi-dimensional thinking on `|0.t| ≈ 1, where t = ∞`: Explanation of universe spread over time as being a single organism divided in different parts as wholes. 0 is an absorbing element and t is time spent in evolution. Every time frame spent far away from reaching infinity resets itself to zero…
 
-### "You are all born to be right but you are politically corrected."
+### "You are all born to be right but politically corrected."
 
 I don't even know when we lost our touch with nature thus each other. Let's focus on future as much as we can.
 
