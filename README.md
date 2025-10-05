@@ -1,6 +1,6 @@
 # Hey! 👋 
 
-## A _funnywise_ human with engineering, thinking and artistic skills. 
+## A _funnywise_ human with engineering, feeling, and artistic skills. 
 
 You can view my current resume [here](https://0.1234s.org/files/cv/english.pdf).
 
