@@ -6,7 +6,7 @@ You can view my current resume [here](https://0.1234s.org/files/cv/english.pdf).
 
 ## (Some) Open Source Contributions
 
-- *2025* Philosophy: [Logical Spirituality](https://github.com/ebsaral/Logical-Spirituality): A Comprehensive View of Spirituality Together with the Logic of Nature
+- *2025* Philosophy: [ebsaral/Logical-Spirituality](https://github.com/ebsaral/Logical-Spirituality): A Comprehensive View of Spirituality Together with the Logic of Nature
 - *2022* JavaScript: [npm/cli](https://github.com/npm/cli/pull/4191): Display an alert when removing last package version
 - *2022* JavaScript: [ebsaral/create-full-sls-app](https://github.com/ebsaral/create-full-sls-app): Create Serverless boilerplate applications via a CLI tool
 - *2019* Python    : [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils/pull/285): Add an option to disable signals on save method
