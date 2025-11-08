@@ -12,3 +12,8 @@ You can view my current resume [here](https://0.1234s.org/files/cv/english.pdf).
 - *2019* Python    : [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils/pull/285): Add an option to disable signals on save method
 - *2015* Python    : [mozilla/unicode-slugify](https://github.com/mozilla/unicode-slugify/pull/14): Add unidecode support and `only_ascii` option
 - *2015* Ruby      : [neektza/rmeetup](https://github.com/neektza/rmeetup/pull/4): Add delete endpoint and enhance some methods
+
+---
+
+***"Sum makes sense, some doesn't."***  
+— Piera Fibilikus
