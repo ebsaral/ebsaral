@@ -1,8 +1,6 @@
 # Hey! 👋 
 
-## A _funnywise_ one with engineering, feeling, and artistic skills. 
-
-You can view my current resume [here](https://0.1234s.org/files/cv/english.pdf).
+**A _funnywise_ one with engineering, feeling, and artistic skills.**
 
 ## (Some) Open Source Contributions
 
